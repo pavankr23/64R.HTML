@@ -1,2 +1,2 @@
 # 64R.HTML
-the learning of html and tasks
+the learning path of html 
